@@ -30,4 +30,4 @@ It shows how to:
 
 ---
 
-![img.png](img.png)
+![img.png](./img.png)
