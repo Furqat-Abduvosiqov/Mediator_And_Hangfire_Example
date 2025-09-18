@@ -29,5 +29,3 @@ It shows how to:
   Includes a sample `RecalculateCustomerDiscountCommand` that simulates a long-running database operation.
 
 ---
-
-![img.png](img.png)
